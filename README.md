@@ -73,6 +73,4 @@ All tests completed successfully!
 
 
 
-You can copy this content into your `README.md` file. Let me know if you want it as an actual file or any modifications!
 
-[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/82690572/35d3fd3b-b077-4d4c-8df1-8f354e3dd0be/qa-assignment_E706014195_copy.pdf)
